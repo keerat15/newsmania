@@ -10,4 +10,4 @@ News Mania is a go-to platform for the latest news from renowned channels like B
 
 ## Overview
 
-![Overview](overview.png)
+![Overview](overview1.png)
